@@ -1,0 +1,1 @@
+# Git Message Convention Practice
